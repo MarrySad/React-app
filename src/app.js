@@ -18,8 +18,3 @@ ReactDOM.render(
 			<Route path="/" component={Layout}/>
 		</BrowserRouter>
 	</Provider>, document.getElementById("root"));
-
-
-	// <Layout>
-	// 	<About/>
-	// </Layout>
